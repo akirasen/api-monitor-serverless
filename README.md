@@ -1,6 +1,6 @@
 # 接口监控及管理脚本
 
-![image](https://github.com/akirasen/api-monitor-serverless/assets/41799341/92013efe-08db-41ed-8026-dbf55e700cf4)
+![image](https://github.com/akirasen/api-monitor-serverless/assets/41799341/62b10af7-5f88-4c58-9ffc-a0c772570497)
 
 
 ## 使用说明
