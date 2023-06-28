@@ -1,0 +1,10 @@
+{
+  "name": "http",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "uni-cloud-router": "file:../../../uni_modules/uni-cloud-router/uniCloud/cloudfunctions/common/uni-cloud-router"
+  },
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
